@@ -1,0 +1,46 @@
+{
+  "_id": "givenchy",
+  "startUrl": [
+    "https://www.givenchybeauty.cn/%E5%BD%A9%E5%A6%86/%E5%94%87%E9%83%A8/%E5%94%87%E8%86%8F/"
+  ],
+  "selectors": [
+    {
+      "id": "items",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": "a.giv-ProductTile-link",
+      "multiple": true
+    },
+    {
+      "id": "s_title",
+      "parentSelectors": ["items"],
+      "type": "SelectorText",
+      "selector": "h1",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "options",
+      "parentSelectors": ["items"],
+      "type": "SelectorElement",
+      "selector": "li .swatchanchor span.giv-ProductAvaible--null",
+      "multiple": true
+    },
+    {
+      "id": "title",
+      "parentSelectors": ["options"],
+      "type": "SelectorElementAttribute",
+      "selector": "_parent_",
+      "multiple": false,
+      "extractAttribute": "title"
+    },
+    {
+      "id": "sytle",
+      "parentSelectors": ["options"],
+      "type": "SelectorElementAttribute",
+      "selector": "_parent_",
+      "multiple": false,
+      "extractAttribute": "style"
+    }
+  ]
+}

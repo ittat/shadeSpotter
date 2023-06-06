@@ -1,0 +1,83 @@
+{
+  "_id": "ysl",
+  "startUrl": ["https://www.yslbeautycn.com/makeup-lipstick"],
+  "selectors": [
+    {
+      "id": "dialog_close",
+      "parentSelectors": ["_root"],
+      "type": "SelectorElementClick",
+      "clickElementSelector": "img.close-spring-dialog",
+      "clickElementUniquenessType": "uniqueText",
+      "clickType": "clickOnce",
+      "delay": 2000,
+      "discardInitialElements": "do-not-discard",
+      "multiple": true,
+      "selector": "div.list-product"
+    },
+    {
+      "id": "item",
+      "parentSelectors": ["dialog_close"],
+      "type": "SelectorLink",
+      "selector": ".goods-tit a",
+      "multiple": true
+    },
+    {
+      "id": "title_zh",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "h1",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "title_en",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "h2",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "click_option",
+      "parentSelectors": ["item"],
+      "type": "SelectorElementClick",
+      "clickElementSelector": ".product-color-select a.btn",
+      "clickElementUniquenessType": "uniqueText",
+      "clickType": "clickOnce",
+      "delay": 2000,
+      "discardInitialElements": "do-not-discard",
+      "multiple": false,
+      "selector": ".is-open ul"
+    },
+    {
+      "id": "color_iirem",
+      "parentSelectors": ["click_option"],
+      "type": "SelectorElement",
+      "selector": "a",
+      "multiple": true
+    },
+    {
+      "id": "name",
+      "parentSelectors": ["color_iirem"],
+      "type": "SelectorText",
+      "selector": "span:nth-of-type(2)",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "color-sytle",
+      "parentSelectors": ["color_iirem"],
+      "type": "SelectorElementAttribute",
+      "selector": "span:nth-of-type(1)",
+      "multiple": false,
+      "extractAttribute": "style"
+    },
+    {
+      "id": "url",
+      "parentSelectors": ["color_iirem"],
+      "type": "SelectorLink",
+      "selector": "span:nth-of-type(2)",
+      "multiple": false
+    }
+  ]
+}

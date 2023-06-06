@@ -1,0 +1,44 @@
+{
+  "_id": "lorealparis",
+  "startUrl": ["https://www.lorealparis.com.cn/lip-makeup/color-riche"],
+  "selectors": [
+    {
+      "id": "items",
+      "multiple": true,
+      "parentSelectors": ["_root"],
+      "selector": "a.oap-card__link",
+      "type": "SelectorLink"
+    },
+    {
+      "id": "s_title",
+      "multiple": false,
+      "parentSelectors": ["items"],
+      "regex": "",
+      "selector": "span.oap-product-header__name",
+      "type": "SelectorText"
+    },
+    {
+      "id": "options",
+      "multiple": true,
+      "parentSelectors": ["items"],
+      "selector": "li.colorItem a",
+      "type": "SelectorElement"
+    },
+    {
+      "extractAttribute": "stroke",
+      "id": "color",
+      "multiple": false,
+      "parentSelectors": ["options"],
+      "selector": "svg:nth-of-type(1)",
+      "type": "SelectorElementAttribute"
+    },
+    {
+      "id": "title_no",
+      "multiple": false,
+      "parentSelectors": ["options"],
+      "regex": "",
+      "selector": "svg:nth-of-type(1) title",
+      "type": "SelectorText"
+    }
+  ]
+}

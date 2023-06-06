@@ -1,0 +1,63 @@
+{
+  "_id": "channel",
+  "startUrl": ["https://www.chanel.cn/cn/makeup/lips/c/5x1x1x31/lipstick/"],
+  "selectors": [
+    {
+      "id": "item jump",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": "div:nth-of-type(n+4) .txt-product a",
+      "multiple": true
+    },
+    {
+      "id": "title",
+      "parentSelectors": ["item jump"],
+      "type": "SelectorText",
+      "selector": "span.product-details__title",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "title_zh",
+      "parentSelectors": ["item jump"],
+      "type": "SelectorText",
+      "selector": "span.product-details__description",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "click_options",
+      "parentSelectors": ["item jump"],
+      "type": "SelectorElementClick",
+      "clickElementSelector": ".product-details__option button[aria-describedby]",
+      "clickElementUniquenessType": "uniqueText",
+      "clickType": "clickOnce",
+      "delay": 4000,
+      "discardInitialElements": "do-not-discard",
+      "multiple": false,
+      "selector": "ul.ul-shade-list"
+    },
+    {
+      "id": "item_ele",
+      "parentSelectors": ["click_options"],
+      "type": "SelectorElement",
+      "selector": "span.button__wrapper",
+      "multiple": true
+    },
+    {
+      "id": "color_no",
+      "parentSelectors": ["item_ele"],
+      "type": "SelectorText",
+      "selector": "span",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "color_img",
+      "parentSelectors": ["item_ele"],
+      "type": "SelectorImage",
+      "selector": "img",
+      "multiple": false
+    }
+  ]
+}

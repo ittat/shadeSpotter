@@ -1,0 +1,626 @@
+[
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": NaN,
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C099672853-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F%E5%85%B8%E8%97%8F%E9%AB%98%E8%AE%A2%E7%A4%BC%E7%9B%92-24%E6%AC%BE%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-%E5%85%B8%E9%9B%85%E6%BC%86%E8%89%BA%E6%9C%A8%E8%B4%A8%E7%A4%BC%E7%9B%92",
+    "name": NaN,
+    "color": ""
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "637 非凡人生 丝绒",
+    "color": "#8b413e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 缎光",
+    "color": "#a13d3f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 鎏金",
+    "color": "#a13a3b"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 哑光",
+    "color": "#c65453"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像",
+    "color": "#ba494f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "735 倾慕之心",
+    "color": "#a83928"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "854 ROUGE SHANGHAI 丝绒",
+    "color": "#923233"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏 替换芯",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0996177-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E6%9B%BF%E6%8D%A2%E8%8A%AF-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "973 午夜 丝绒",
+    "color": "#8a3c3c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "028 摩纳哥之吻",
+    "color": "#cf313f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "080 微笑正红",
+    "color": "#cd2524"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "100 裸色风尚",
+    "color": "#ac554c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "314 圆舞",
+    "color": "#c87660"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "453 爱慕",
+    "color": "#da3033"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "505 感性",
+    "color": "#b3645f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "520 Feel Good",
+    "color": "#da3144"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "562  亲爱",
+    "color": "#d12227"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "625 迪奥缪斯",
+    "color": "#d4848d"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "634 橘园",
+    "color": "#cf5b36"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "637 非凡人生 丝绒",
+    "color": "#8b413e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "646 机遇",
+    "color": "#9b2b1f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "666 魔女",
+    "color": "#7e1b20"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "668 艳惊四座",
+    "color": "#d4273a"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 缎光",
+    "color": "#a13d3f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 鎏金",
+    "color": "#a13a3b"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像 哑光",
+    "color": "#c65453"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "720 偶像",
+    "color": "#ba494f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "722 瑰影",
+    "color": "#9a4b44"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "724 温柔",
+    "color": "#9f5451"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "735 倾慕之心",
+    "color": "#a83928"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "743 恒久爱意",
+    "color": "#b82132"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "763 红妆",
+    "color": "#bf4434"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "766 玫瑰竖琴",
+    "color": "#c4314e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "772 优雅",
+    "color": "#b44d50"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "784 玫瑰人生",
+    "color": "#d43f53"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "814 迪奥工坊",
+    "color": "#ba5239"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "840 光芒",
+    "color": "#863321"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "844 特拉法尔加",
+    "color": "#cc1c0f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "846 协奏",
+    "color": "#9c2c20"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "849 银幕",
+    "color": "#97352c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "854 ROUGE SHANGHAI 丝绒",
+    "color": "#923233"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "869 精致",
+    "color": "#832c25"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "888 先锋",
+    "color": "#b41e1f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "909 宝贝",
+    "color": "#a11f45"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "951 流金岁月",
+    "color": "#a43f37"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "973 午夜 丝绒",
+    "color": "#8a3c3c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "975 歌剧魅影",
+    "color": "#92364f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "999 缎光",
+    "color": "#b8202d"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "999 鎏金",
+    "color": "#c1060f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "999 哑光",
+    "color": "#a31525"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "烈艳蓝金唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/Y0172009-%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E5%94%87%E8%86%8F-%E9%AB%98%E8%AE%A2%E8%89%B2%E6%B3%BD-4%E6%AC%BE%E5%A6%86%E6%95%88-%E4%B8%9D%E7%BB%92%E3%80%81%E7%BC%8E%E5%85%89%E3%80%81%E5%93%91%E5%85%89%E3%80%81%E9%8E%8F%E9%87%91-%E8%8A%B1%E8%90%83%E6%B6%A6%E6%8A%A4-%E8%88%92%E6%82%A6%E6%8C%81%E8%89%B2-%E6%9B%BF%E6%8D%A2%E8%8A%AF%E4%BE%9B%E9%80%89%E8%B4%AD",
+    "name": "999 丝绒",
+    "color": "#b00815"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "100 裸色风尚",
+    "color": "#d38e7f"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "200 逐梦之旅",
+    "color": "#c1745a"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "210 本真由我",
+    "color": "#c78563"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "300 极简艺术",
+    "color": "#b0675e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "400 永无止境",
+    "color": "#88453d"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "416 率性不羁",
+    "color": "#88453d"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "458 巴黎印象",
+    "color": "#e1837b"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "505 天生尤物",
+    "color": "#d07e73"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "518 自信洒脱",
+    "color": "#c06854"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "525 甜心",
+    "color": "#e4786e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "558 法式优雅",
+    "color": "#cd6969"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "626 名扬四海",
+    "color": "#c03b32"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "647 女性风姿",
+    "color": "#e0553e"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "720 偶像",
+    "color": "#ca5156"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "732 意气风发",
+    "color": "#e05430"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "760 绝代风华",
+    "color": "#df3a48"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "780 幸运相随",
+    "color": "#d24067"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "840 光芒",
+    "color": "#ce513b"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "855 FOREVER FREE",
+    "color": "#dd5849"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "866 亲密无间",
+    "color": "#c63f3c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "879 无尽热爱",
+    "color": "#a32234"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "883 敢为先锋",
+    "color": "#882c39"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "111 夜幕降临",
+    "color": "#5f343b"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "231 温柔力量",
+    "color": "#f38c69"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "442 万众瞩目",
+    "color": "#ed6e45"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "742 闺中密友",
+    "color": "#d71e2c"
+  },
+  {
+    "brand": "dior",
+    "type": "lipstick",
+    "series": "迪奥烈艳蓝金锁色唇膏",
+    "series_url": "https://www.dior.cn/zh_cn/beauty/products/C030800999-%E8%BF%AA%E5%A5%A5%E7%83%88%E8%89%B3%E8%93%9D%E9%87%91%E9%94%81%E8%89%B2%E5%94%87%E8%86%8F-%E9%94%81%E8%89%B2%E6%8C%81%E5%A6%86-%E8%BD%BB%E7%9B%88%E8%88%92%E6%82%A6",
+    "name": "825 永不妥协",
+    "color": "#a8564a"
+  }
+]

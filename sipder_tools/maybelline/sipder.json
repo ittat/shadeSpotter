@@ -1,0 +1,44 @@
+{
+  "_id": "maybelline",
+  "startUrl": ["https://www.maybellinechina.com/lip/lipbalm"],
+  "selectors": [
+    {
+      "id": "item",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": ".content-card__name a",
+      "multiple": true
+    },
+    {
+      "id": "s_title",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "h1.product-info__title",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "options",
+      "parentSelectors": ["item"],
+      "type": "SelectorElement",
+      "selector": "li.color-picker__swatch",
+      "multiple": true
+    },
+    {
+      "id": "title",
+      "parentSelectors": ["options"],
+      "type": "SelectorElementAttribute",
+      "selector": "_parent_",
+      "multiple": false,
+      "extractAttribute": "data-variantname"
+    },
+    {
+      "id": "sytle",
+      "parentSelectors": ["options"],
+      "type": "SelectorElementAttribute",
+      "selector": "_parent_",
+      "multiple": false,
+      "extractAttribute": "style"
+    }
+  ]
+}
